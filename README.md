@@ -27,6 +27,6 @@ Feel free to ask me about frontend development, project management, or my experi
 
 If you have a question about a specific repository, you can open an issue or participate in the discussions section (if enabled by the repository owner).
   
-### ⚡ Fun fact
+### 🐱 Fun fact
 I have two cats, Kai and Truls, who keep me entertained while I’m coding! I also enjoy gaming and going for walks with friends.
 
