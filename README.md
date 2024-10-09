@@ -15,7 +15,7 @@ I'm diving into modern JavaScript frameworks, such as React, as I continue my st
 I’m interested in collaborating on projects related to web development, especially those that align with my values in animal health, the environment, or education.
 
 ### 🤔 I’m looking for help with
-I'm eager to improve my skills in advanced JavaScript techniques and best practices in frontend development, so feel free to share some solid sources or courses! 
+I'm eager to improve my skills in advanced JavaScript techniques and best practices in frontend development, so feel free to share interesting sources or courses! 
 
 
 ### 💬 Ask me about
