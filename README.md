@@ -1,7 +1,3 @@
-## Hi there 👋
-
-This is my personal repository! 
-
 ## About Me
 I’m a frontend developer currently studying at Noroff in a two-year program that runs from 2023 to 2025, focusing on creating user-friendly web applications. My interests include web design, responsive layouts, and enhancing user experiences through clean and efficient code.
 
