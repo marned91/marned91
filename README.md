@@ -20,8 +20,6 @@ Feel free to ask me about frontend development, project management, or my experi
 
 ### ✌ How to reach me
 [My Linkedin Page](https://www.linkedin.com/in/marte-n-18aab5101/)
-
-If you have a question about a specific repository, you can open an issue or participate in the discussions section (if enabled by the repository owner).
   
 ### 🐱 Fun fact
 I have two cats, Kai and Truls, who keep me entertained while I’m coding - They are my rubber ducks! I also enjoy gaming, hanging out with friends and going for walks.
