@@ -2,7 +2,7 @@
 I’m a frontend developer currently studying at Noroff in a two-year program that runs from 2023 to 2025, focusing on creating user-friendly web applications. My interests include web design, responsive layouts, and enhancing user experiences through clean and efficient code.
 
 ### 👀 I’m currently learning
-I'm diving into modern JavaScript frameworks, such as React, as I continue my studies in frontend development.
+I'm diving into React and Next.js
 
 ### 🤝 I’m looking to collaborate on
 I’m interested in collaborating on projects related to web development, especially those that align with my values in animal health, the environment, or education.
