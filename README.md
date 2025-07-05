@@ -5,7 +5,7 @@ I’m a frontend developer currently studying at Noroff in a two-year program th
 I'm diving into React and Next.js
 
 ### 🤝 I’m looking to collaborate on
-I’m interested in collaborating on projects related to web development, especially those that align with my values in animal health, the environment, or education.
+I’m interested in collaborating on projects related to web development, especially those that align with my interest in creating meaningful, user-friendly solutions.
 
 ### 🤔 I’m looking for help with
 I'm eager to improve my skills in advanced JavaScript techniques and best practices in frontend development, so feel free to share interesting sources or courses! 
