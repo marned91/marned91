@@ -8,7 +8,7 @@ I'm diving into React and Next.js
 I’m interested in collaborating on projects related to web development, especially those that align with my interest in creating meaningful, user-friendly solutions.
 
 ### 🤔 I’m looking for help with
-I'm eager to improve my skills in advanced JavaScript techniques and best practices in frontend development, so feel free to share interesting sources or courses! 
+I'm eager to improve my skills in React, Next.js and Vue, and best practices in frontend development, so feel free to share interesting sources or courses! 
 
 
 ### 💬 Ask me about
