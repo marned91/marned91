@@ -1,5 +1,5 @@
 ## About Me
-I’m a frontend developer who just finished a two-year program frontend program at Noroff. During this course, I focused on creating user-friendly web applications. My interests include web design, responsive layouts, and enhancing user experiences through clean and efficient code.
+I’m a frontend developer who recently completed a two-year Frontend Development program at Noroff. Throughout my studies, I focused on building modern, user-friendly web applications while writing clean, efficient, and maintainable code. I’m passionate about web design, responsive layouts, and creating seamless user experiences.
 
 ### 👀 I’m currently learning
 I'm diving into React and Next.js
