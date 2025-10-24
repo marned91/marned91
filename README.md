@@ -2,7 +2,7 @@
 I’m a frontend developer who recently completed a two-year Frontend Development program at Noroff. Throughout my studies, I focused on building modern, user-friendly web applications while writing clean, efficient, and maintainable code. I’m passionate about web design, responsive layouts, and creating seamless user experiences.
 
 ### 👀 I’m currently learning
-I'm diving into React, Typescript and Next.js. 
+I'm diving into React, Typescript, Next.js and AI tools.
 
 ### 🤝 I’m looking to collaborate on
 I’m interested in collaborating on projects related to web development, especially those that align with my interest in creating meaningful, user-friendly solutions.
